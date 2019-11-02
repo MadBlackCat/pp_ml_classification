@@ -1,0 +1,247 @@
+products
+news
+Home / Terms of Service
+   
+Welcome to DiveNav.
+
+The following agreement (this "Agreement" or the "Terms of Service") describes the terms of access to DiveNav, Inc. ("DiveNav") 's services. By using DiveNav services you agree to these Terms of Service. If you do not so agree, you should decline this agreement, in which case you are prohibited from accessing or using DiveNav 's services. DiveNav may amend this Agreement at any time in its sole discretion.
+
+ 
+
+DIVENAV SERVICES
+
+ 
+
+1.1 Basic description of the services: DiveNav offers several services: eDiving, DiveComputerTraining, iDive Computer and divePAL. DiveNav is an online service, including client software and websites.
+
+ 
+
+eDiving, DiveComputerTraining, iDive Computer and divePAL services are online services offered by DiveNav, including the software provided to you by DiveNav (collectively, the "DiveNav Software") and the online environments that support the service, including without limitation: the server computation, software access, maps, 3D models, images, graphics, videos, algorithms, simulations, user interfaces, decompression algorithms, oxygen toxicity algorithm, dive computer simulations, messaging and protocols that simulate the environments (the "Servers"), the software that are provided by DiveNav and installed on the local computer or other devices you use to access the Servers and thereby view or otherwise access the Servers (the "Clients"), application program interfaces provided by DiveNav to you for use with the Services (the "APIs"), and access to the websites and services available from DiveNav's domains and subdomains (the "Websites"). The Servers, Clients, APIs, Websites and any other DiveNav Software collectively constitute the "Service" as used in this Agreement.
+
+ 
+
+1.2 Content available in the Service may be provided by users of the Service, rather than by DiveNav. DiveNav and other parties have rights in their respective content, which you agree to respect.
+
+ 
+
+You acknowledge that: (i) by using the Service you may have access to graphics, maps, sound effects, music, videos, audio, computer programs, animation, images, text, simulations and other creative output (collectively, "Content"), and (ii) Content may be provided under license by independent content providers, including contributions from other users of the Service (all such independent content providers, "Content Providers").
+
+ 
+
+You acknowledge that DiveNav and other Content Providers have rights in their respective Content under copyright and other applicable laws and treaty provisions, and that except as described in this Agreement, such rights are not licensed or otherwise transferred by mere use of the Service. You accept full responsibility and liability for your use of any Content in violation of any such rights.
+
+ 
+
+1.3 The Service is subject to scheduled and unscheduled service interruptions. All aspects of the Service are subject to change or elimination at DiveNav's sole discretion.
+
+ 
+
+DiveNav reserves the right to interrupt the Service with or without prior notice for any reason or no reason. You agree that DiveNav will not be liable for any interruption of the Service, delay or failure to perform, and you understand that DiveNav has the right at any time for any reason or no reason to change and/or eliminate any aspect(s) of the Service as it sees fit in its sole discretion.
+
+ 
+
+ 
+
+ACCOUNT REGISTRATION AND REQUIREMENTS
+
+ 
+
+2.1 You must establish an account to use the Service using true and accurate registration information.
+
+ 
+
+You must establish an account with DiveNav (your "Account") to use the Service, except for those portions of the Websites to which DiveNav allows access without registration. You agree to provide true, accurate, current and complete information about yourself as prompted by the registration form ("Registration Data") and maintain and promptly update the Registration Data to keep it true, accurate, current and complete. You authorize DiveNav, directly or through third parties, to make any inquiries we consider necessary to validate your Registration Data. DiveNav reserves all rights to vigorously pursue legal action against all persons who misrepresent personal information or are otherwise untruthful about their identity, and to suspend or cancel Accounts registered with inaccurate or incomplete information. Notwithstanding the foregoing, you acknowledge that DiveNav cannot guarantee the accuracy of any information submitted by any user of the Service, nor any identity information about any user.
+
+ 
+
+ 
+
+2.2 You need to use an account name in the Service which is not misleading, offensive or infringing. You must select and keep secure your account password.
+
+ 
+
+You must choose an account name to identify yourself to DiveNav staff (your "Account Name"). You may not select as your Account Name the name of another person to the extent that could cause deception or confusion; a name which violates any trademark right, copyright, or other proprietary right; a name which may mislead other users to believe you to be an employee of DiveNav; or a name which DiveNav deems in its discretion to be vulgar or otherwise offensive. DiveNav reserves the right to delete or change any Account Name for any reason or no reason. You are fully responsible for all activities conducted through your Account or under your Account Name.
+
+ 
+
+At the time your Account is opened, you must select a password. You are responsible for maintaining the confidentiality of your password and are responsible for any harm resulting from your disclosure, or authorizing the disclosure of, your password or from use by any person of your password to gain access to your Account or Account Name. At no time should you respond to an online request for a password other than in connection with the log-on process to the Service. Your disclosure of your password to any other person is entirely at your own risk.
+
+ 
+
+ 
+
+2.3 DiveNav may suspend or terminate your account at any time, without refund or obligation to you.
+
+ 
+
+DiveNav has the right at any time for any reason or no reason to suspend or terminate your Account, terminate this Agreement, and/or refuse any and all current or future use of the Service without notice or liability to you. In the event that DiveNav suspends or terminates your Account or this Agreement, you understand and agree that you shall receive no refund or exchange for any unused time on a subscription, any license or subscription fees, any content or data associated with your Account, or for anything else.
+
+ 
+
+2.4 You are responsible for your own Internet access.
+
+ 
+
+DiveNav does not provide Internet access, and you are responsible for all fees associated with your Internet connection.
+
+ 
+
+LICENSE TERMS AND OTHER INTELLECTUAL PROPERTY TERMS
+
+ 
+
+3.1 You have a nonexclusive, limited, revocable license to use the Service while you are in compliance with the terms of service.
+
+ 
+
+Subject to the terms of this Agreement, DiveNav grants to you a non-exclusive, limited, fully revocable license to use the DiveNav Software and the rest of the Service during the time you are in full compliance with the Terms of Service. Nothing in this Agreement, or on DiveNav's websites, shall be construed as granting you any other rights or privileges of any kind with respect to the Service or to any Content. You acknowledge that your participation in the Service does not make you a DiveNav employee and that you do not expect to be, and will not be, compensated by DiveNav for such activities.
+
+ 
+
+ 
+
+CONDUCT BY USERS OF THE SERVICE
+
+ 
+
+4.1 You agree to abide by certain rules of conduct prohibiting illegal and other practices that DiveNav deems harmful.
+
+ 
+
+You agree that you shall not: (i) take any action or upload, post, e-mail or otherwise transmit Content that infringes or violates any third party rights; (ii) impersonate any person or entity without their consent, including, but not limited to, a DiveNav employee, or falsely state or otherwise misrepresent your affiliation with a person or entity; (iii) take any action or upload, post, e-mail or otherwise transmit Content that violates any law or regulation; (iv) take any action or upload, post, e-mail or otherwise transmit Content as determined by DiveNav at its sole discretion that is harmful, threatening, abusive, harassing, causes tort, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable; (v) take any actions or upload, post, e-mail or otherwise transmit Content that contains any viruses, Trojan horses, worms, spyware, time bombs, cancelbots or other computer programming routines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information; (vi) take any action or upload, post, email or otherwise transmit any Content that would violate any right or duty under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); (vii) upload, post, email or otherwise transmit any unsolicited or unauthorized advertising, or promotional materials, that are in the nature of "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation that DiveNav considers in its sole discretion to be of such nature; (viii) interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies or regulations of networks connected to the Service; (ix) attempt to gain access to any other user's Account or password; or (x) "stalk", abuse or attempt to abuse, or otherwise harass another user. Any violation by you of the terms of the foregoing sentence may result in immediate and permanent suspension or cancellation of your Account. You agree that DiveNav may take whatever steps it deems necessary to abridge, or prevent behavior of any sort on the Service in its sole discretion, without notice to you.
+
+ 
+
+4.2 You agree to use the Service as provided, without unauthorized software or other means of access or use. You will not make unauthorized works from or conduct unauthorized distribution of the DiveNav Software.
+
+ 
+
+DiveNav has designed the Service to be experienced only as offered by DiveNav at the Websites or partner websites. DiveNav is not responsible for any aspect of the Service that is accessed or experienced using software or other means that are not provided by DiveNav. You agree not to create or provide any server emulators or other software or other means that provide access to or use of the Servers without the express written authorization of DiveNav. DiveNav is not obligated to allow access to the Servers by any software that is not provided by DiveNav, and you agree to cease using, creating, distributing or providing any such software at the request of DiveNav. You are prohibited from taking any action that imposes an unreasonable or disproportionately large load on DiveNav's infrastructure.
+
+ 
+
+You may not charge any third party for using the DiveNav Software to access and/or use the Service, and you may not modify, adapt, reverse engineer (except as otherwise permitted by applicable law), decompile or attempt to discover the source code of the DiveNav Software, or create any derivative works of the DiveNav Software or the Service, or otherwise use the DiveNav Software except as expressly provided in this Agreement. You may not copy or distribute any of the written materials associated with the Service. Notwithstanding the foregoing, you may copy the Client that DiveNav provides to you, for backup purposes.
+
+ 
+
+4.3 You will not use the marks of DiveNav without authorization from DiveNav.
+
+ 
+
+You are not permitted to use the marks " divePALTM ", ÒiDive ComputerÓ, "eDiving¨", "DiveComputerTraining¨", "DiveNav", or any other trade, service or other marks registered to or owned by DiveNav, except as explicitly authorized by DiveNav.
+
+ 
+
+4.4 You will not use the Service to develop personal and / or commercial videos. You agree that any such video created by You using the Service will be considered property of DiveNav.
+
+ 
+
+RELEASES, DISCLAIMERS OF WARRANTY, LIMITATION OF LIABILITY, AND INDEMNIFICATION
+
+ 
+
+5.1 You release DiveNav from your claims relating to your use of the Service. DiveNav has the right but not the obligation to resolve disputes between users of the Service. Scuba diving, like many other active sports, has inherent risks which might lead to injury or, in extreme cases, even to death. This Service, developed by DiveNav, while attempting to accurately simulate dive profiles, the related physics and physiology and how dive computers represent them, should not be used as the sole source of reference nor should replace the real life training provided by accredited instructors and diving professionals. Additionally, the decompression algorithm used in the Program might be significantly different from the decompression algorithm used in real dive computers. In consideration of being allowed to use the program, You agree to engage in real diving activities that are consistent with my training and experience. You further agree that neither DiveNav, nor its affiliates, nor any of its employees, officers, agents, contractors or assigns (the ÒReleased PartiesÓ) may be liable or responsible in any way for any death, injury or other damages caused to you, your family, heirs, estate or assigns that may occur as a result of you using the program. You further release, exempt and hold harmless said released parties from any claim or lawsuit by you, your family, estate, heirs or assigns arising from your use of the Service.
+
+ 
+
+5.2 All data on DiveNav's servers are subject to deletion, alteration or transfer.
+
+ 
+
+When using the Service, you may accumulate Content, objects, items, scripts, equipment, or other value or status indicators that reside as data on DiveNav's servers. THESE DATA, AND ANY OTHER DATA, ACCOUNT HISTORY AND ACCOUNT NAMES RESIDING ON DIVENAV'S SERVERS, MAY BE DELETED, ALTERED, MOVED OR TRANSFERRED AT ANY TIME FOR ANY REASON IN DIVENAV'S SOLE DISCRETION.
+
+ 
+
+YOU UNDERSTAND AND AGREE THAT DIVENAV HAS THE RIGHT, BUT NOT THE OBLIGATION, TO REMOVE ANY CONTENT IN WHOLE OR IN PART AT ANY TIME FOR ANY REASON OR NO REASON, WITH OR WITHOUT NOTICE AND WITH NO LIABILITY OF ANY KIND.
+
+ 
+
+5.3 DiveNav provides the Service on an "as is" basis, without express or implied warranties.
+
+ 
+
+DIVENAV PROVIDES THE SERVICE, THE DIVENAV SOFTWARE, YOUR ACCOUNT AND ALL OTHER SERVICES STRICTLY ON AN "AS IS" BASIS, PROVIDED AT YOUR OWN RISK, AND HEREBY EXPRESSLY DISCLAIMS ALL WARRANTIES OR CONDITIONS OF ANY KIND, WRITTEN OR ORAL, EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF TITLE, NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+ 
+
+Without limiting the foregoing, DiveNav does not ensure continuous, error-free, secure or virus-free operation of the Service, the DiveNav Software or your Account, and you understand that you shall not be entitled to refunds for fees based on DiveNav's failure to provide any of the foregoing other than as explicitly provided in this Agreement.
+
+ 
+
+5.4 DiveNav's liability to you is expressly limited, to the extent allowable under applicable law.
+
+ 
+
+IN NO EVENT SHALL DIVENAV OR ANY OF ITS SHAREHOLDERS, PARTNERS, AFFILIATES, DIRECTORS, OFFICERS, SUBSIDIARIES, EMPLOYEES, AGENTS, SUPPLIERS, LICENSEES OR DISTRIBUTORS BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION ANY DAMAGES FOR LOST PROFITS, ARISING (WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE) OUT OF OR IN CONNECTION WITH THE SERVICE (INCLUDING ITS MODIFICATION OR TERMINATION), THE DIVENAV SOFTWARE, YOUR ACCOUNT (INCLUDING ITS TERMINATION OR SUSPENSION) OR THIS AGREEMENT, WHETHER OR NOT DIVENAV MAY HAVE BEEN ADVISED THAT ANY SUCH DAMAGES MIGHT OR COULD OCCUR AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. IN ADDITION, IN NO EVENT WILL DIVENAV'S CUMULATIVE LIABILITY TO YOU FOR DIRECT DAMAGES OF ANY KIND OR NATURE EXCEED TWENTY DOLLARS (U.S. $20.00). You agree that DiveNav cannot be held responsible or liable for anything that occurs or results from accessing, using or subscribing to the Service.
+
+ 
+
+5.5 You will indemnify DiveNav from claims arising from breach of this Agreement by you, from your use of the Service from loss of Content due to your actions, or from alleged infringement by you.
+
+ 
+
+At DiveNav's request, you agree to defend, indemnify and hold harmless DiveNav, its shareholders, partners, affiliates, directors, officers, subsidiaries, employees, agents, suppliers, licensees, distributors, and other users of the Service, from all damages, liabilities, claims and expenses, including without limitation attorneys' fees and costs, arising from any breach of this Agreement by you, or from your use of the Service. You agree to defend, indemnify and hold harmless DiveNav, its shareholders, partners, affiliates, directors, officers, subsidiaries, employees, agents, suppliers, licensees, and distributors, from all damages, liabilities, claims and expenses, including without limitation attorneys' fees and costs, arising from: (a) any action or inaction by you in connection with the deletion, alteration, transfer or other loss of Content, status or other data held in connection with your Account, and (b) any claims by third parties that your activity or Content in the Service infringes upon, violates or misappropriates any of their intellectual property or proprietary rights.
+
+ 
+
+PRIVACY POLICY
+
+ 
+
+6.1 DiveNav uses your personal information to operate and improve the Service, and will not give your personal information to third parties except to operate, improve and protect the Service.
+
+ 
+
+The personal information you provide to us during registration is used for DiveNav's internal purposes only. DiveNav uses the information it collects to learn what you like and to improve the Service. DiveNav will not give any of your personal information to any third party without your express approval except: as reasonably necessary to fulfill your service request, to third- party fulfillment houses, customer support, billing and credit verification services, and the like; to comply with tax and other applicable law; as otherwise expressly permitted by this Agreement or as otherwise authorized by you; to law enforcement or other appropriate third parties in connection with criminal investigations and other investigations of fraud; or as otherwise necessary to protect DiveNav, its agents and other users of the Service. DiveNav does not guarantee the security of any of your private transmissions against unauthorized or unlawful interception or access by third parties. DiveNav can (and you authorize DiveNav to) disclose any information about you to private entities, law enforcement agencies or government officials, as DiveNav, in its sole discretion, believes necessary or appropriate to investigate or resolve possible problems or inquiries, or as otherwise required by law. If you request any technical support, you consent to DiveNav's remote accessing and review of the computer onto which you load DiveNav Software for purposes of support and debugging. You agree that DiveNav may communicate with you via email and any similar technology for any purpose relating to the Service, the DiveNav Software and any services or software which may in the future be provided by DiveNav or on DiveNav's behalf.
+
+ 
+
+6.2 DiveNav may observe and record your interaction within the Service, and may share aggregated and other general information (not including your personal information) with third parties.
+
+ 
+
+You acknowledge and agree that DiveNav, in its sole discretion, may track, record, observe or follow any and all of your interactions within the Service. DiveNav may share general, demographic, or aggregated information with third parties about our user base and Service usage, but that information will not include or be linked to any personal information without your consent.
+
+ 
+
+DISPUTE RESOLUTION
+
+ 
+
+If a dispute arises between you and DiveNav, our goal is to provide you with a neutral and cost-effective means of resolving the dispute quickly. Accordingly, you and DiveNav agree to resolve any claim or controversy at law or in equity that arises from or relates to this Agreement or our Service (a "Claim") in accordance with one of the subsections below.
+
+ 
+
+7.1 Governing Law. This Agreement and the relationship between you and DiveNav shall be governed in all respects by the laws of the State of California without regard to conflict of law principles or the United Nations Convention on the International Sale of Goods.
+
+ 
+
+7.2 Forum for Disputes. You and DiveNav agree to submit to the exclusive jurisdiction and venue of the courts located in the County of Orange, California. Notwithstanding this, you agree that DiveNav shall still be allowed to apply for injunctive or other equitable relief in any court of competent jurisdiction.
+
+ 
+
+7.3 Improperly Filed Claims. All Claims you bring against DiveNav must be resolved in accordance with this Dispute Resolution Section. All Claims filed or brought contrary to this Dispute Resolution Section shall be considered improperly filed. Should you file a Claim contrary to this Dispute Resolution Section, DiveNav may recover attorneys' fees and costs up to one thousand U.S. Dollars ($1,000.00 USD), provided that DiveNav has notified you in writing of the improperly filed Claim, and you have failed to promptly withdraw the Claim.
+
+ 
+
+GENERAL PROVISIONS
+
+ 
+
+The Service is controlled and operated by DiveNav from its offices within the State of California, United States of America. DiveNav makes no representation that any aspect of the Service is appropriate or available for use in jurisdictions outside of the United States. Those who choose to access the Service from other locations are responsible for compliance with applicable local laws. The DiveNav Software is subject to all applicable export restrictions. You must comply with all export and import laws and restrictions and regulations of any United States or foreign agency or authority relating to the DiveNav Software and its use.
+
+ 
+
+DiveNav's failure to act with respect to a breach by you or others does not waive DiveNav's right to act with respect to that breach or subsequent or similar breaches. No consent or waiver by DiveNav under this Agreement shall be deemed effective unless delivered in a writing signed by a duly appointed officer of DiveNav. All or any of DiveNav's rights and obligations under this Agreement may be assigned to a subsequent owner or operator of the Service in a merger, acquisition or sale of all or substantially all of DiveNav's assets. You may not assign or transfer this Agreement or any or all of your rights hereunder without the prior written consent of DiveNav, and any attempt to do so is void. Notwithstanding anything else in this Agreement, no default, delay or failure to perform on the part of DiveNav shall be considered a breach of this Agreement if such default, delay or failure to perform is shown to be due to causes beyond the reasonable control of DiveNav.
+
+ 
+
+This Agreement sets forth the entire understanding and agreement between you and DiveNav with respect to the subject matter hereof. The section headings used herein, including descriptive summary sentences at the start of each section, are for convenience only and shall not affect the interpretation of this Agreement. If any provision of this Agreement shall be held by a court of competent jurisdiction to be unlawful, void, or for any reason unenforceable, then in such jurisdiction that provision shall be deemed severable from these terms and shall not affect the validity and enforceability of the remaining provisions.
+
+ 
+
+DiveNav may give notice to you by means of a general notice on our website at www.ediving.us and/or www.divecomputertraining.com, and/or www.divenav.com, through the Service Client at or after log-in to your Account, by electronic mail to your e-mail address in our records for your Account, or by written communication sent by first class mail, postage prepaid, or overnight courier to your address on record for your Account. All notices given by you or required under this Agreement shall be mailed to us at: DiveNav Inc., Attn: Legal Department, 17461 Irvine Blvd., Suite M, Tustin, CA 92780.  
+about
+contact us
+terms of service
+©2018 DiveNav, Inc. All rights reserved.
