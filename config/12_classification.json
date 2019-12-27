@@ -1,0 +1,17 @@
+{
+	"Introductory/Generic": 0,
+	"First Party Collection": 1,
+	"First Party Use": 2,
+	"Legal Basis": 2,
+	"Cookies and Similar Technologies": 3,
+	"Third Party Sharing and Collection": 4,
+	"Links": 4,
+	"User Control": 5,
+	"User Right": 6,
+	"Data Security": 7,
+	"Data Retention": 8,
+	"Data Transfer": 9,
+	"Internal and Specific Audiences": 10,
+	"Policy Change": 11,
+	"Privacy Contact Information": 12
+}

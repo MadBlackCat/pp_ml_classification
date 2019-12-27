@@ -1,16 +1,15 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_score
-from bs4 import BeautifulSoup
-from joblib import dump, load
+from sklearn.metrics import f1_score, accuracy_score, classification_report
+
+from joblib import dump
 from sklearn import svm
-from sklearn.metrics import classification_report
-from vocab.Vocab import create_vocab, WordVocab
+# from vocab.Vocab import create_vocab, WordVocab
 import pandas as pd
-import numpy as np
 import logging
-import time
 import re
-import pickle
+import json
+from preprocess import text_preprocess
+
 
 # Create feature vectors
 # vectorizer = TfidfVectorizer(min_df = 5,
@@ -39,14 +38,14 @@ def clean_str(string):
 
 result = []
 logging.basicConfig(level=logging.INFO,
-                        filename="./10_label_svm.log",
+                        filename="./log/10_label_svm.log",
                         filemode='a',
                         format='%(asctime)s - %(pathname)s[line:%(lineno)d]-%(levelname)s: %(message)s')
 
-path = "10-classification/"
+path = "dataset/"
 label = "10_classification"
 classification_name = label.replace(" ", "_").replace("/", "_")
-
+model_name = 'models/'+label+'_svm.joblib'
 # Data Load
 
 train_path = path + classification_name + '_train_data.tsv'
@@ -61,7 +60,8 @@ texts = []
 labels = []
 for idx in range(data_train.review.shape[0]):
 
-    texts.append(clean_str(data_train.review[idx]))
+    texts.append(text_preprocess.text_preprocess(data_train.review[idx], method=["stopwords", "lemmatization"]))
+    # texts.append(clean_str(data_train.review[idx]))
     labels.append(str(data_train.sentiment[idx]))
     train_split_num = len(data_train)
     dev_split_num = len(data_dev) + train_split_num
@@ -90,6 +90,9 @@ dev_report_macro_f1 = [f1_score(data_dev.sentiment, p_dev, average='macro')]
 test_report_micro_f1 = [f1_score(data_test.sentiment, p, average='micro')]
 dev_report_micro_f1 = [f1_score(data_dev.sentiment, p_dev, average='micro')]
 
+test_classification_report = classification_report(data_test.sentiment, p)
+dev_classification_report = classification_report(data_dev.sentiment, p_dev)
+
 logging.info(str(label))
 logging.info("Dev Acc : --" + str(dev_report_acc))
 logging.info("Test Acc : --" + str(test_report_acc))
@@ -107,9 +110,16 @@ logging.info("Dev Test Micro F1 : --" + str(dev_report_micro_f1))
 logging.info("Test Test Micro F1 : --" + str(test_report_micro_f1))
 print("Dev Micro F1: --" + str(dev_report_micro_f1))
 print("Test Micro F1: --" + str(test_report_micro_f1))
+logging.info("\n-----------------------------\n")
+
+logging.info("Dev Test classification report : --" + str(dev_classification_report))
+logging.info("Test Test classification report : --" + str(test_classification_report))
+print("Dev Test classification report --" + str(dev_classification_report))
+print("Test Test classification report :" + str(test_classification_report))
+logging.info("\n-----------------------------\n")
 
 # save the model
-dump(classifier_linear, 'models/10_label_svm.joblib')
+dump(classifier_linear, model_name)
 
 logging.info("\n-----------------------------\n")
 

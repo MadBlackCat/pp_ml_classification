@@ -1,147 +1,284 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/preprocess/merge.py" line="184" />
+    <bookmark url="file://$PROJECT_DIR$/preprocess/merge.py" description="if item[&quot;tag&quot;] == self._unTAG or item[&quot;tag&quot;] == se..." line="181" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fb183f83-63a7-469e-8f73-afed090eb287" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/0_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/0_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/0_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/10_classification_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/10_classification_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/10_classification_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/1_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/1_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/1_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/2_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/2_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/2_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/3_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/3_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/3_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/4_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/4_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/4_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/5_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/5_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/5_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/6_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/6_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/6_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/7_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/7_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/7_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/8_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/8_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/8_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/9_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/9_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-classification/9_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Util/DataLoader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Util/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svm_linear_multi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svm_predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/0_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/0_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/0_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/1_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/1_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/1_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/2_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/2_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/2_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/3_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/3_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/3_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/4_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/4_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/4_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/5_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/5_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/5_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/6_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/6_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/6_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/7_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/7_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/7_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/8_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/8_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/8_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/9_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/9_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/9_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Cookies_and_Similar_Technologies_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Cookies_and_Similar_Technologies_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Cookies_and_Similar_Technologies_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Data_Retention_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Data_Retention_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Data_Retention_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Data_Security_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Data_Security_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Data_Security_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Data_Transfer_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Data_Transfer_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Data_Transfer_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/First_Party_Collection_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/First_Party_Collection_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/First_Party_Collection_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/First_Party_Use_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/First_Party_Use_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/First_Party_Use_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Internal_and_Specific_Audiences_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Internal_and_Specific_Audiences_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Internal_and_Specific_Audiences_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Introductory_Generic_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Introductory_Generic_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Introductory_Generic_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Legal_Basis_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Legal_Basis_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Legal_Basis_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Links_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Links_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Links_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Policy_Change_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Policy_Change_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Policy_Change_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Privacy_Contact_Information_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Privacy_Contact_Information_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Privacy_Contact_Information_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Third_Party_Sharing_and_Collection_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Third_Party_Sharing_and_Collection_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/Third_Party_Sharing_and_Collection_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/User_Control_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/User_Control_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/User_Control_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/User_Right_dev_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/User_Right_test_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/un_downsampling/User_Right_train_data.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/air.com.igg.happylittledentist.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/bestpregnancysites.com.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.BigDataandAnalytics.hive.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.acrylic.nails.appp1.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.aepg.animalspellingkidseducation.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.aixls.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.appenetic.fame.request.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.bebek.odasi.appp1.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.contisgroup.engage.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.divenav.idivecomputer.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.donsfootwear.dons.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.eb.MaksatFirsat2.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.glovantech.glearning.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.irexdroid.rapidmemory.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.mobileappsprn.hamiltonnissan.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.nirays.mymolive.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/com.sraxapp.tiaracameron.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation_data/eyes.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vocab/Vocab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vocab/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vocab/word_vocab.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classifier_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifier_flask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/flask_app.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/svm_linear.py" beforeDir="false" afterPath="$PROJECT_DIR$/svm_linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/45.33.44.78.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/50.116.2.183.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/about.canva.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/about.musixmatch.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/account.nicovideo.jp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/adwebmart.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/aeriacanada.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/alexandragames.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/amanotes.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/anaec3438.cafe24.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/app.nebo.mobi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/axesinmotion.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/bata.txtc.akamaized.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/beingame-mobile.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/belka-games.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/blackgames.co.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/boomhits.games.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/bricksxballs.wordpress.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/bttrm-men.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/bttrm.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/camsurf.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/carx-online.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/cdn.appcloudbox.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/cdn.awsbj0.fds.api.mi-img.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/cdn.facecaptain.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/cdn.ushareit.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/chatous.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/codigames.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/crazymaplestudio.blogspot.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/cxzh.ltd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/d1e1zkmrelw7ap.cloudfront.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/d2prafqgniatg5.cloudfront.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/d2prafqgniatg5.facereader.me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/d2prafqgniatg5.sibylgirl.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/dl.linekong-global.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/docs.google.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/dq2yy.dianchu.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/dvloperapps.weebly.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/easybrain.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/egefeepoets.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/evolvegames.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/facecam.boo.chat.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/facemystery.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/ferroentertainment.weebly.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/file.enjoy-global.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/findnowme.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/findnumberapp.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/ftxgames.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/funimate.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/gamesunisoft.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/gear-games.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/geozilla.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/get-headway.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/getfancyapps.github.io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/getfeedback.wixsite.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/getgalatea.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/getmimo.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/gist.github.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/gogolive.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/goodgames6249.cloudapp.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/greenpandagames.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/grigorkin.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/hakuna.live.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/help.instagram.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/help.netmarble.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/holla.world.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/hybrid.xiaoying.tv.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/icbc-asia.icbc.com.cn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/icongames.app.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/im30.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/imo.im.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/incolor.cc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/infinitode.prineside.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/iwuma.xyz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/jp.tojoygame.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/kawaiihomedesign.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/kiarygames.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/kingdomsofheckfire.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/kuljaninemir.github.io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/languagedrops.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/learnwithhomer.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/legal.my.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/legal.ubi.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/letsvpn.world.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/leveleight.se.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/limasky.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/lp.tantanapp.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/m963741m.wixsite.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/magikoly.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/medium.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/mobile.like.video.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/mobirate.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/mobirix.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/musescore.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/narvii.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/naveed-zafar.blogspot.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/nekki.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/neronsbrother.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/nordeus.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/novaempiregame.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/number-games.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/nv-games.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/outfit7.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/pages.geneticstudios.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/pages.trip.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/palmhoromentor.wixsite.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/peekaboomoments.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/pikpok.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/polestargo.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/policy.jasminlove.in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/policy.pinterest.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/privacy.microsoft.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/privacy.servers.kwalee.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/privacy.uber.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/privacypolicy.gamemorefun.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/private.ilyon.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/rainiergames.blogspot.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/reality.co.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/redmachinegames.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/reportsapp.org.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/resource.cdn.bbcget.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/roostergames.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/roosterteeth.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/rule.alibaba.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/samharris.org.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/saygames.by.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/shanga.co.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/singnowapp.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/site.funplus.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/sites.google.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/solowall.github.io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/sorakomi.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/ssobmaet.freevnn.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/support.office.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/svcs.ebay.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/swagmasha.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/tagsforig.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/take5slots.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/tastypill.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/taxigamesfree.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/telegram.org.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/terms.alicdn.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/testfoni.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/tid.toast.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/todoist.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/toh.jupiterltd.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/topface.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/touchvpn.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/translimit.co.jp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/tubitv.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/tunnellightvpn.tk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/umobiapps.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/weplyapi-weapne2.weply.io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/weverseapi-weapne2.weverse.io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.01percent.net.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.231play.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.99trillion.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.adobe.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.anghami.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.any.do.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.bgcupid.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.bolegames.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.boxiangyx.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.camelgames.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.candivore.io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.candy-mobile.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_txt/www.carolgames.com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/10_classification.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/12_classification.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/label.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convert_to_txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/10_classification_dev_data.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/10_classification_test_data.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/10_classification_train_data.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/12_classification_dev_data.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/12_classification_test_data.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/12_classification_train_data.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/label_dev_data.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/label_test_data.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/label_train_data.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extract_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pp_manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preprocess/merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preprocess/predict_precess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preprocess/text_preprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/ads.blocker.browser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/afrigis.navigator.plus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/air.TheParodyNetwork.CreateASuperHeroFan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/air.beingfashiondesigner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/air.mceducation.offline.ETLMath.LMA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/air.mouse.vs.bad.cat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/air.ofi.autorepairshop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/animaljigsaw.puzzle.animal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/antares.game.CatsAndMice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/app.sampler.htnl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/app.studio.fotos.amor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/babyAnimal.andorid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/barcode.scanner.reader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/be.redhorns.android.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/betrayal.quotes.mk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/btc.org.freewallet.app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/ca.ginik.DonutCoaster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/call.name.announcer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/cardiac.diet.tadapps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/ccom.zahratrust.zt360.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/cilek.kokusu.bulmaca.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/co.bettermeapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/co.milkit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.AcupressureTherapyPoints.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.a88697157050417fac211853a.a73008264a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.acrylic.nails.appp1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.advgen.advgeoinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.aepg.animalspellingkidseducation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.aixls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.alien.defender.free.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.alrefjisk.firemanlam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.altragames.stunt.flyingcar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.appenetic.fame.request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.bebek.odasi.appp1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.contisgroup.engage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.donsfootwear.dons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.eb.MaksatFirsat2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.glovantech.glearning.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.irexdroid.rapidmemory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.nirays.mymolive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.nu.airportplanefirefighter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation_html/com.pc.app.almeezan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util/DataLoader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_load.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier_flask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/10_label_svm.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/models/10_label_svm.joblib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svm_linear_multi.py" beforeDir="false" afterPath="$PROJECT_DIR$/svm_linear_multi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svm_predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/svm_predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/air.com.igg.happylittledentist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/air.com.igg.happylittledentist.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/bestpregnancysites.com.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/bestpregnancysites.com.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.BigDataandAnalytics.hive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.BigDataandAnalytics.hive.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.acrylic.nails.appp1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.acrylic.nails.appp1.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.aepg.animalspellingkidseducation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.aepg.animalspellingkidseducation.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.aixls.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.aixls.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.appenetic.fame.request.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.appenetic.fame.request.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.bebek.odasi.appp1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.bebek.odasi.appp1.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.contisgroup.engage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.contisgroup.engage.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.divenav.idivecomputer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.divenav.idivecomputer.html.txt" beforeDir="false" afterPath="$PROJECT_DIR$/validation_html/com.divenav.idivecomputer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.donsfootwear.dons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.donsfootwear.dons.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.eb.MaksatFirsat2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.eb.MaksatFirsat2.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.glovantech.glearning.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.glovantech.glearning.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.irexdroid.rapidmemory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.irexdroid.rapidmemory.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.mobileappsprn.hamiltonnissan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.mobileappsprn.hamiltonnissan.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.nirays.mymolive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.nirays.mymolive.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.sraxapp.tiaracameron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/com.sraxapp.tiaracameron.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/eyes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_data/eyes.html.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,112 +287,125 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/sentiment_analysis$svm_predict.coverage" NAME="svm_predict Coverage Results" MODIFIED="1572450302246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$svm_predict.coverage" NAME="svm_predict Coverage Results" MODIFIED="1575564010795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sentiment_analysis$move_no_title.coverage" NAME="move_no_title Coverage Results" MODIFIED="1572446233097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Desktop/dataset" />
     <SUITE FILE_PATH="coverage/sentiment_analysis$svm_linear.coverage" NAME="svm_linear Coverage Results" MODIFIED="1569227993190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/sentiment_analysis$svm_linear_multi.coverage" NAME="svm_linear_multi Coverage Results" MODIFIED="1572448963978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/sentiment_analysis$convert_to_txt.coverage" NAME="convert_to_txt Coverage Results" MODIFIED="1572447038077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Desktop/dataset" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$extract_validation.coverage" NAME="extract_validation Coverage Results" MODIFIED="1574501369414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Desktop/dataset" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$test.coverage" NAME="test Coverage Results" MODIFIED="1576552942995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$predict_precess.coverage" NAME="predict_precess Coverage Results" MODIFIED="1575557643162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocess" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$pp_manage.coverage" NAME="pp_manage Coverage Results" MODIFIED="1574683592077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$merge.coverage" NAME="merge Coverage Results" MODIFIED="1574849013553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocess" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$svm_linear_multi.coverage" NAME="svm_linear_multi Coverage Results" MODIFIED="1577431018763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$extract_main.coverage" NAME="extract_main Coverage Results" MODIFIED="1574675436520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$convert_to_txt.coverage" NAME="convert_to_txt Coverage Results" MODIFIED="1574683759131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="477" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-854590640">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="3" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.14" value="5" />
+          <entry key="project.open.time.15" value="10" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="3" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="html" value="17" />
           <entry key="joblib" value="2" />
-          <entry key="log" value="10" />
-          <entry key="py" value="61" />
-          <entry key="tsv" value="34" />
-          <entry key="txt" value="4" />
+          <entry key="json" value="2" />
+          <entry key="log" value="12" />
+          <entry key="py" value="160" />
+          <entry key="tsv" value="50" />
+          <entry key="txt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="ANSI Aware" value="10" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="61" />
-          <entry key="TSV" value="34" />
+          <entry key="ANSI Aware" value="12" />
+          <entry key="HTML" value="17" />
+          <entry key="JSON" value="2" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="Python" value="160" />
+          <entry key="TSV" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="log" value="777" />
-          <entry key="py" value="2010" />
+          <entry key="dummy" value="20" />
+          <entry key="html" value="17" />
+          <entry key="log" value="778" />
+          <entry key="py" value="11087" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ANSI Aware" value="777" />
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="2010" />
+          <entry key="ANSI Aware" value="778" />
+          <entry key="HTML" value="17" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="Python" value="11087" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/svm_linear_multi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="309">
+              <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/svm_predict.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/validation_data/com.aixls.html.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation_data/air.com.igg.happylittledentist.html.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation_data/com.acrylic.nails.appp1.html.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>data_set</find>
+      <find>pick</find>
+      <find>pickle</find>
+      <find>_merged_par</find>
+      <find>rint</find>
+      <find>©</find>
     </findStrings>
     <replaceStrings>
       <replace>data</replace>
@@ -269,13 +419,27 @@
       <list>
         <option value="$PROJECT_DIR$/classifier_flask.py" />
         <option value="$PROJECT_DIR$/svm.log" />
-        <option value="$PROJECT_DIR$/svm_linear_multi.py" />
         <option value="F:/Desktop/dataset/cal_pp.py" />
         <option value="F:/Desktop/dataset/move_no_title.py" />
         <option value="F:/Desktop/dataset/convert_to_txt.py" />
         <option value="$PROJECT_DIR$/svm_linear.py" />
         <option value="$PROJECT_DIR$/validation_data/air.com.igg.happylittledentist.html.txt" />
+        <option value="$PROJECT_DIR$/pickling.py" />
+        <option value="$PROJECT_DIR$/log/10_label_svm.log" />
+        <option value="$PROJECT_DIR$/preprocess.py" />
+        <option value="$PROJECT_DIR$/svm_linear_multi.py" />
+        <option value="F:/Desktop/dataset/extract_validation.py" />
+        <option value="$PROJECT_DIR$/extract_main.py" />
+        <option value="$PROJECT_DIR$/convert_to_txt.py" />
+        <option value="$PROJECT_DIR$/pp_manage.py" />
+        <option value="$PROJECT_DIR$/validation_txt/ads.blocker.browser.html.txt" />
+        <option value="$PROJECT_DIR$/validation_html/ads.blocker.browser.html" />
+        <option value="$PROJECT_DIR$/preprocess/merge.py" />
+        <option value="$PROJECT_DIR$/preprocess/predict_precess.py" />
         <option value="$PROJECT_DIR$/svm_predict.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="F:/GRJProject/classify.py" />
+        <option value="F:/GRJProject/main.py" />
       </list>
     </option>
   </component>
@@ -288,15 +452,17 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="960" />
-    <option name="height" value="1056" />
+    <option name="width" value="945" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -304,15 +470,11 @@
               <item name="sentiment_analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="sentiment_analysis" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sentiment_analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sentiment_analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="validation_data" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,9 +486,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Documents\Project\sentiment_analysis\validation_data" />
       <recent name="F:\Documents\Project\sentiment_analysis" />
+      <recent name="F:\Documents\Project\sentiment_analysis\preprocess" />
+      <recent name="F:\Documents\Project\sentiment_analysis\validation_data" />
       <recent name="F:\Documents\Project\sentiment_analysis\data_set" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Documents\Project\sentiment_analysis\preprocess" />
+      <recent name="F:\Documents\Project\sentiment_analysis\log" />
+      <recent name="F:\Documents\Project\sentiment_analysis\models" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -341,8 +509,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.svm_predict">
-    <configuration name="convert_to_txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.svm_linear_multi">
+    <configuration name="merge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sentiment_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,56 +518,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="F:/Desktop/dataset" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:/Desktop/dataset/convert_to_txt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="move_no_title" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="sentiment_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="F:/Desktop/dataset" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:/Desktop/dataset/move_no_title.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="svm_linear" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="sentiment_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocess" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/svm_linear.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocess/merge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict_precess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sentiment_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocess/predict_precess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -452,6 +598,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sentiment_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sentiment_analysis" type="Python.FlaskServer" factoryName="Flask server">
       <option name="additionalOptions" value="" />
       <option name="application" value="" />
@@ -471,19 +639,19 @@
     </configuration>
     <list>
       <item itemvalue="Flask server.sentiment_analysis" />
-      <item itemvalue="Python.svm_linear" />
-      <item itemvalue="Python.svm_linear_multi" />
-      <item itemvalue="Python.move_no_title" />
-      <item itemvalue="Python.convert_to_txt" />
       <item itemvalue="Python.svm_predict" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.merge" />
+      <item itemvalue="Python.predict_precess" />
+      <item itemvalue="Python.svm_linear_multi" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.svm_predict" />
         <item itemvalue="Python.svm_linear_multi" />
-        <item itemvalue="Python.convert_to_txt" />
-        <item itemvalue="Python.move_no_title" />
-        <item itemvalue="Python.svm_linear" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.svm_predict" />
+        <item itemvalue="Python.predict_precess" />
+        <item itemvalue="Python.merge" />
       </list>
     </recent_temporary>
   </component>
@@ -505,27 +673,29 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2596472" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2166483" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5121279" side_tool="true" visible="true" weight="0.23839663" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5176406" side_tool="true" weight="0.33966243" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="4" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.4878721" visible="true" weight="0.23839663" />
-      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49007717" weight="0.4578059" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.48235944" visible="true" weight="0.22679324" />
+      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.48511577" weight="0.44620255" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32911393" />
       <window_info anchor="right" id="SciView" order="0" weight="0.20176406" />
-      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Database" order="1" weight="0.3296582" />
       <window_info anchor="right" id="Mongo Explorer" order="2" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.3296582" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,18 +717,34 @@
           <line>15</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preprocess/predict_precess.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="train_vectors" />
-        <watch expression="train_vectors" />
-        <watch expression="result" language="Python" />
+        <watch expression="new_data_origin" />
+        <watch expression="data_origin" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>result</expression-string>
         <language-id>Python</language-id>
@@ -570,339 +756,274 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>'Get 40% OFF Pastebin PRO accounts!'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dataset/Links_dev_data.tsv" />
-    <entry file="file://$PROJECT_DIR$/dataset/First_Party_Use_dev_data.tsv" />
-    <entry file="file://$PROJECT_DIR$/dataset/Internal_and_Specific_Audiences_dev_data.tsv" />
-    <entry file="file://$PROJECT_DIR$/dataset/Introductory_Generic_dev_data.tsv" />
-    <entry file="file://$PROJECT_DIR$/dataset/Legal_Basis_dev_data.tsv" />
-    <entry file="file://$PROJECT_DIR$/dataset/Legal_Basis_train_data.tsv" />
-    <entry file="file://$PROJECT_DIR$/data/Links_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_set/15_classification_test_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier_flask.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Util/DataLoader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_set/15_classification_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_set/Third_Party_Sharing_and_Collection_train_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_set/Third_Party_Sharing_and_Collection_test_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_set/Third_Party_Sharing_and_Collection_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_set/User_Control_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_set/User_Right_train_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-19130">
-          <caret line="363" column="20" selection-start-line="363" selection-start-column="17" selection-end-line="363" selection-end-column="20" />
-          <caret line="364" column="20" selection-start-line="364" selection-start-column="17" selection-end-line="364" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_set/User_Right_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-4654" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_set/Policy_Change_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-1042" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Cookies_and_Similar_Technologies_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Data_Retention_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-9912" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Data_Security_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/svm/classes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4249">
-          <caret line="572" column="8" selection-start-line="572" selection-start-column="8" selection-end-line="572" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-classification/1_test_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/un_downsampling/0_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-classification/9_train_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/svm.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="288" column="29" selection-start-line="288" selection-start-column="29" selection-end-line="288" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-classification/0_train_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-19079">
-          <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/metrics/classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="665" column="16" selection-start-line="665" selection-start-column="11" selection-end-line="665" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/joblib/numpy_pickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3517">
-          <caret line="366" column="4" selection-start-line="366" selection-start-column="4" selection-end-line="366" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/10_label_svm.joblib">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://F:/Desktop/dataset/extract_title.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3612">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Desktop/dataset/move_no_title.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../gplay_privacy/gplay_privacy/extract_privacy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-588">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../gplay_privacy/gplay_privacy/html2privacy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../gplay_privacy/gplay_privacy/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../gplay_privacy/gplay_privacy/recrawlprivacy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="43" lean-forward="true" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Desktop/dataset/convert_to_txt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_data/com.appenetic.fame.request.html.txt" />
+    <entry file="file://$PROJECT_DIR$/validation_data/air.com.igg.happylittledentist.html.txt" />
     <entry file="file://F:/Desktop/dataset/cal_pp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
+        <state relative-caret-position="221">
           <caret line="61" column="74" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="74" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_label_svm.log">
+    <entry file="file://$PROJECT_DIR$/config/label.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="33" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/10_classification.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="15" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Desktop/dataset/extract_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_data/air.com.igg.happylittledentist.html" />
+    <entry file="file://$PROJECT_DIR$/validation_html/co.milkit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_main_text/ads.blocker.browser.html" />
+    <entry file="file://$PROJECT_DIR$/validation_main_v1/babyAnimal.andorid.html" />
+    <entry file="file://$PROJECT_DIR$/validation_main_v1/air.beingfashiondesigner.html" />
+    <entry file="file://$PROJECT_DIR$/validation_main_v1/ca.ginik.DonutCoaster.html" />
+    <entry file="file://$PROJECT_DIR$/validation_main_v1/com.nu.airportplanefirefighter.html" />
+    <entry file="file://$PROJECT_DIR$/validation_main_v1/com.OSOBear.SpecialAgentDOTTI.html" />
+    <entry file="file://$PROJECT_DIR$/validation_main_v1/com.pc.app.almeezan.html" />
+    <entry file="file://$PROJECT_DIR$/convert_to_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_txt/adult.coloring.book.flowers.html.txt" />
+    <entry file="file://$PROJECT_DIR$/validation_txt/animaljigsaw.puzzle.animal.html.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py">
+    <entry file="file://$PROJECT_DIR$/validation_txt/call.name.announcer.html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_txt/com.pc.app.almeezan.html.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/10-classification/10_classification_train_data.tsv">
+    <entry file="file://$PROJECT_DIR$/validation_txt/com.nu.airportplanefirefighter.html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_txt/com.glovantech.glearning.html.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_txt/com.advgen.advgeoinfo.html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_txt/air.beingfashiondesigner.html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_txt/barcode.scanner.reader.html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="178" column="4" selection-start-line="178" selection-start-column="4" selection-end-line="178" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_txt/afrigis.navigator.plus.html.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_txt/ads.blocker.browser.html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_txt/air.mceducation.offline.ETLMath.LMA.html.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_html/ads.blocker.browser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="150" column="8" selection-start-line="150" selection-start-column="8" selection-end-line="150" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/10_classification_dev_data.tsv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-8736" />
+      </provider>
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="394">
-          <caret line="2954" column="16" selection-start-line="2954" selection-start-column="16" selection-end-line="2954" selection-end-column="16" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-9527092/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133868">
+          <caret line="4781" column="8" selection-start-line="4781" selection-start-column="8" selection-end-line="4781" selection-end-column="8" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess/text_preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/167_txt/imo.im.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-classification/8_dev_data.tsv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="765" selection-start-line="765" selection-end-line="765" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_load.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/svm_linear.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
+        <state relative-caret-position="662">
           <caret line="45" selection-start-line="45" selection-end-line="46" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pp_manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess/predict_precess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="63" column="60" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="60" />
           <folding>
-            <element signature="e#0#59#0" expanded="true" />
+            <element signature="e#1#10#0" expanded="true" />
+            <marker date="1575563475518" expanded="true" signature="2204:2207" ph="..." />
+            <marker date="1575563475518" expanded="true" signature="5101:5110" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validation_data/com.glovantech.glearning.html.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-classification/10_classification_dev_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="240">
-          <caret line="591" column="27" selection-start-line="591" selection-start-column="27" selection-end-line="591" selection-end-column="27" />
+    <entry file="file://F:/GRJProject/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5544">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10-classification/10_classification_test_data.tsv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-20312" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation_data/com.acrylic.nails.appp1.html.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation_data/air.com.igg.happylittledentist.html.txt">
+    <entry file="file://F:/GRJProject/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/utils/validation.py">
+    <entry file="file://$PROJECT_DIR$/dataset/10_classification_test_data.tsv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/10_classification_train_data.tsv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svm_predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="767" selection-start-line="767" selection-end-line="767" />
+        <state relative-caret-position="462">
+          <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/svm_linear_multi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="309">
+          <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/svm_predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation_data/com.aixls.html.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
